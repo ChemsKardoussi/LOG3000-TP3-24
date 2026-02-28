@@ -7,7 +7,7 @@ Ce dossier contient les tests automatisés de l'application. Les tests verifient
 
 ### test_operators.py
 - Tests pour les opérations mathématiques (add, subtract, multiply, divide)
-- 8 tests qui vérifient que les calculs donnent les bons résultats
+- 9 tests qui vérifient que les calculs donnent les bons résultats
 - Tests spécifiques pour les 3 bugs identifiés :
   - **Bug 1** : Soustraction (subtract) - 1 test
   - **Bug 2** : Multiplication (multiply) - 1 test
