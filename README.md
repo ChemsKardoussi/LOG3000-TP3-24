@@ -24,12 +24,13 @@ LOG3000-TP3-24/
 │   └── README.md            # Documentation des tests
 │
 ├── .gitignore               # Fichiers à ignorer par Git
-└── 
+└──
+```
 ## Prérequis d'installation 
 - Python 3.8 ou plus recent
 - pip (Normalament installé automatiquement avec python)
 - Git (Pour cloner le depot et gérer les versions)
-```
+
 ## Instructions d'installation 
 
 1. Cloner le dépôt et se placer dans le dossier du projet :
