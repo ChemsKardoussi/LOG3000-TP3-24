@@ -29,7 +29,7 @@ LOG3000-TP3-24/
 - Python 3.8 ou plus recent
 - pip (Normalament installé automatiquement avec python)
 - Git (Pour cloner le depot et gérer les versions)
-
+```
 ## Instructions d'installation 
 
 1. Cloner le dépôt et se placer dans le dossier du projet :
